@@ -1,5 +1,3 @@
-import pattern.zi0ne;
-
 import java.util.Scanner;
 
 public class Main {
