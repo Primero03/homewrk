@@ -13,8 +13,8 @@ public class Main {
         int weight = sc.nextInt();
 
 
-        int compg = calculateCustoms(price1, weight);
-        System.out.println("Размер пошлины составит: " + compg +"Р");
+        int result = calculateCustoms(price1, weight);
+        System.out.println("Размер пошлины составит: " + result +"Р");
 
 
 
