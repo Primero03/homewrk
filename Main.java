@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    void main() {
+    public static void main() {
         // Сканер для ввода с клавиатуры
         Scanner sc = new Scanner(System.in);
 
