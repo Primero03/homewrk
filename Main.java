@@ -8,12 +8,12 @@ public class Main {
 
         System.out.println("Здравствуйте");
         System.out.println("Введите цену товара (rub): ");
-        int price1 = sc.nextInt();
+        int price = sc.nextInt();
         System.out.println("Введите вес товара (kg): ");
         int weight = sc.nextInt();
 
 
-        int result = calculateCustoms(price1, weight);
+        int result = calculateCustoms(price, weight);
         System.out.println("Размер пошлины составит: " + result +"Р");
 
 
