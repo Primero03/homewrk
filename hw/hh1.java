@@ -47,10 +47,11 @@ public class hh1 {
                     int sixprecent = taxEarnings(earnings);
                     int fifteenprecent = taxEarningsMinusSpendings(earnings,spendings);
                     int difference = fifteenprecent - sixprecent;
+                    
 
-
-                    System.out.println("Ваш налог по УСН 6% от дохода составит: " + sixPrecent + " рублей");
-                    System.out.println("Налог по УСН доходы минус расходы составит: "+ fifteenPrecent +" рублей");
+                    System.out.println("Мы советуем вам УСН доходы");
+                    System.out.println("ВВаш налог составит: " + sixPrecent + " рублей");
+                    System.out.println("Налог на другой системе:: "+ fifteenPrecent +" рублей");
                     System.out.println("Экономия: " + difference + " рублей");
 
                     break;
