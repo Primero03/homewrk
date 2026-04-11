@@ -1,4 +1,4 @@
-package hw.hw3;
+package hw;
 
 public class Book {
     public String title;
