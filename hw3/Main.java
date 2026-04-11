@@ -1,5 +1,4 @@
-import hw.hw3.Author;
-import hw.hw3.Book;
+package hw3;
 
 public class Main {
     public static void main(String[] args) {
