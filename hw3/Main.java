@@ -13,8 +13,7 @@ public class Main {
         //вычисление стоимости книги,3р за страницу
         System.out.println("Стоимость данной книги: " + book1.estimePrice(book1) + " руб.");
         //Поиск слова в названии книги,в имени и фамилии писателя
-        System.out.println(book1.matches(book1,author1,"Гоголь"));
+        System.out.println(book1.matches(book1, author1, "Гоголь"));
     }
 
 }
-
