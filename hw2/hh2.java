@@ -1,4 +1,4 @@
-package taxes;
+package hw2;
 
 class hh2 {
 
